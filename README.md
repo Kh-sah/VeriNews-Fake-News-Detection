@@ -123,9 +123,7 @@ Performance Evaluation
 ```text
 backend/
 frontend/
-data/
 images/
-models/
 notebooks/
 README.md
 ```
@@ -180,6 +178,3 @@ in your browser.
 
 Aspiring Data Analyst | Machine Learning Enthusiast | NLP Practitioner
 
----
-
-⭐ If you found this project useful, consider giving it a star on GitHub.
